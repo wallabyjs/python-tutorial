@@ -24,7 +24,7 @@ def test_multiply_negative():
 """
 Here are some cool things you can quickly try:
   - Time Travel Debugger:  click the Debug code lens above any test
-  - Value Peek:            place #? at the end of any expression
+  - Live Comment:          place #? at the end of any expression
   - Logpoints:             use the gutter context menu to log any expression
   - Test Story Viewer:     run 'Open Test Story' to see the full execution flow
   - AI Integration:        use Wallaby's Copilot Chat or MCP Server to debug with AI
